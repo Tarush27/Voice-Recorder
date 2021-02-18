@@ -26,7 +26,7 @@
         android:fontFamily="sans-serif-medium"
         android:text="Tap the mic to start recording"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:textColor="@color/purple_700"
+        android:textColor="@color/white"
         android:textSize="25sp"
         android:textStyle="italic"
         android:gravity="center"

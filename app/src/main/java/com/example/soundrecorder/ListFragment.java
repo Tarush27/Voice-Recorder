@@ -154,6 +154,7 @@ public class ListFragment extends Fragment implements Adapter.onItemListCLick {
         seekbarHandler.removeCallbacks(runnabler);
     }
 
+
     @SuppressLint("NewApi")
     private void playAudio(File fileToPlay) {
         mediaPlayer = new MediaPlayer();
